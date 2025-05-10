@@ -27,3 +27,5 @@ Certificates are displayed in the serenity app. You can search the Certificates 
 
 ## Need Help?
 If you're unsure how to sign apps using these certificates, [Click here](docs/using-certificates.md)
+
+[Return to Homepage](https://serenityios.github.io/docs)
