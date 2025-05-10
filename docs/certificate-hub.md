@@ -3,7 +3,7 @@
 A Place to get Certificates for Serenity and any other Third Party Store.
 
 ## Where in the app is this Certificate Hub?
-Open Serenity, if you didn't install it yet [click here to see how](docs/installation.md). Then wait for the App to load fully and click the **third** icon at the bottom in the tabbar.
+Open Serenity, if you didn't install it yet [click here to see how](installation.md). Then wait for the App to load fully and click the **third** icon at the bottom in the tabbar.
 then click the "Add Certificates" button and you will see a "Certificate Hub" Button, Click on that to then see the Certificate Hub.
 
 ## From Where are these?
@@ -26,6 +26,6 @@ Certificates are displayed in the serenity app. You can search the Certificates 
 > ⚠️ Certificates may stop working without notice. Always have a backup option.
 
 ## Need Help?
-If you're unsure how to sign apps using these certificates, [Click here](docs/using-certificates.md)
+If you're unsure how to sign apps using these certificates, [Click here](using-certificates.md)
 
 [Return to Homepage](https://serenityios.github.io/docs)
