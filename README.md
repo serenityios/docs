@@ -6,7 +6,6 @@ A full guide for using the Serenity app.
 
 ## 📚 Table of Contents
 
-- [Overview](docs/overview.md)
 - [Installation](docs/installation.md)
 - [Certificate Hub](docs/certificate-hub.md)
 - [Using Certificates](docs/using-certificates.md)
