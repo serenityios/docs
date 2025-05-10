@@ -17,4 +17,17 @@ If you wanna add a custom certificate heres the guide:
 
 If you wanna know what happens to your certificates & ipa files, please read our [Privacy & Security Document](docs/security.md)
 
+## Signing Apps
+After you have successfully added your Certificate using the guide above, you can now Sign Apps and heres how:
+
+> Signing Your own .ipa
+- Firstly, Open Serenity then go to the Signer tab (Pencil Icon)
+- Click import .ipa file and you will see the App's info of the App your trying to sign
+- Make modifications if you want by clicking at the top right on the Settings icon
+- Click Sign and it will give you a prompt to directly install your signed app after its done.
+
+> Signing Apps from Repositories
+- First, add a repository using [this guide](docs/adding-repositories.md)
+- Then, sign apps from the repository using [this guide to know how to use repositories and how to sign apps from repositories](docs/using-repositories.md)
+
 [Return to Homepage](https://serenityios.github.io/docs)
