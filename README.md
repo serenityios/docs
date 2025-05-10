@@ -11,11 +11,11 @@ A full guide for using the Serenity app.
 - [Using Certificates](docs/using-certificates.md)
 - [Adding Repositories](docs/adding-repositories.md)
 - [Using Repositories](docs/using-repositories.md)
-- [Installing Tweaks](docs/using-repositories.md)
-- [Signing .ipa Files](docs/signing-ipa.md)
+- [Installing Tweaks](docs/installing-tweaks.md)
 - [Security & Privacy](docs/security.md)
-- [FAQ](docs/faq.md)
-- [Contributing](docs/contributing.md)
+- [Contributors](docs/contributors.md)
+
+- [Our Site](https://serenityios.com/)
 
 
 ## What is Serenity?
