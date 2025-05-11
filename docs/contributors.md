@@ -40,7 +40,7 @@ URL: [https://github.com/tyilo/insert_dylib](https://github.com/tyilo/insert_dyl
 Because we don't have a Developer Certificate yet, we cant make an UDID Retriever
 So we spent time, looking for an API and we found one: S0n1c's UDID Retrieval API!
 
-URL: https://udid.s0n1c.ca/docs
+URL: [https://udid.s0n1c.ca/docs](https://udid.s0n1c.ca/docs)
 
 
 
