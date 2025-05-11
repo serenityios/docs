@@ -50,5 +50,5 @@ For Serenity Deluxe, we have:
 
 
 ## Please Contact Us from our Discord Server.
-https://discord.gg/invite/uEuHHcFs9J
+[Click Here for the invite](https://discord.gg/invite/uEuHHcFs9J)
 
