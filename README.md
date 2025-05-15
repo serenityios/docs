@@ -4,7 +4,7 @@ A full guide for using the Serenity app.
 
 ---
 
-## 📚 Table of Contents
+## 📚 Table of Pages
 
 - [Installation](docs/installation.md)
 - [Certificate Hub](docs/certificate-hub.md)
@@ -12,6 +12,10 @@ A full guide for using the Serenity app.
 - [Adding Repositories](docs/adding-repositories.md)
 - [Using Repositories](docs/using-repositories.md)
 - [Installing Tweaks](docs/installing-tweaks.md)
+- [2023 Whitelist Methods](docs/older-whitelist-methods.md)
+- [2024-2025 Whitelist Methods](docs/newer-whitelist-methods.md)
+- [Sideloading Dictionary](docs/sideloading-dictionary.md)
+- [Explaining Errors](docs/errors.md)
 - [Security & Privacy](docs/security.md)
 - [Contributors](docs/contributors.md)
 

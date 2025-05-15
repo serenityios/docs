@@ -15,9 +15,20 @@ URL: [https://app.appbox.click/](https://app.appbox.click/)
 ## iPA Parsing
 
 To make our signer read and output the info when you import an .ipa, we used a api that someone on Code Sandbox made.
-This was very useful because it didnt waste time.
+This was very useful because it didnt waste time. **this is only used in the Frontend version of Serenity**
 
+It has the entire Project Bundled, so you can use it through html.
+
+An example is located at /examples/
 URL: [https://codesandbox.io/p/sandbox/app-info-parser-x9pfzn](https://codesandbox.io/p/sandbox/app-info-parser-x9pfzn)
+
+## CFPropertyList
+
+Something we installed via Composer for PHP, was able to let us parse the .ipa's info using a simple library.
+Without this, you couldn't install the app straight from the app.
+
+URL: [https://packagist.org/packages/rodneyrehm/plist](https://packagist.org/packages/rodneyrehm/plist)
+
 
 ## Signing
 
@@ -41,8 +52,5 @@ Because we don't have a Developer Certificate yet, we cant make an UDID Retrieve
 So we spent time, looking for an API and we found one: S0n1c's UDID Retrieval API!
 
 URL: [https://udid.s0n1c.ca/docs](https://udid.s0n1c.ca/docs)
-
-
-
 
 [Return to Homepage](https://serenityios.github.io/docs)

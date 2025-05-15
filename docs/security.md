@@ -30,6 +30,23 @@ If you choose a certificate from our Certificate Hub, the app fetches the corres
 
 ---
 
+## iPAS
+
+When you import a .ipa file via the app, it is uploaded to our server. The server signs the .ipa using an CodeSigning tool for Ubuntu called **ZSign**, the signed .ipa will be parsed using **CFPropertyList** library by rodneyrehm for PHP. a Manifest.plist will be made to work using that Library, and you can install it through itms-services://
+
+Please note the .ipa signing process can be slow which is in an order:
+1. Uploading the .ipa, .p12 and .mobileprovision to a newly generated folder on the website
+2. Running a CodeSigning command with the settings you prefer and it gets signed
+3. Generating the Manifest.plist for you to install through the app.
+
+60-80mb from Switzerland to Netherlands > Amsterdam takes about 20 Seconds with a 70-80 Megabit/s Wifi, because of these steps.
+
+If you have a better internet, it will be faster.
+
+> **Note:** The .ipa's get deleted after 5 minutes
+
+---
+
 ## Security
 
 We take multiple measures to protect your data and ensure safe operation of the app:

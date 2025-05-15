@@ -15,7 +15,7 @@ If you wanna add a custom certificate heres the guide:
 5. after that, you have a certificate added (For Devs, its in LocalStorage)
 6. You can now Sign .ipa's from repositories or sign your own .ipa from the Signers page!
 
-If you wanna know what happens to your certificates & ipa files, please read our [Privacy & Security Document](security.md)
+**If you wanna know what happens to your certificates & ipa files, please read our [Privacy & Security Document](security.md)**
 
 ## Signing Apps
 After you have successfully added your Certificate using the guide above, you can now Sign Apps and heres how:
